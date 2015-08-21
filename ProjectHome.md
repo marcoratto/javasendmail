@@ -1,0 +1,1 @@
+Tool for sending email using java language.
